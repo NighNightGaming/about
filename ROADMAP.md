@@ -9,7 +9,7 @@ we want to complete.
 
 
 
-1. Holy Ghosts:
+1. unHoly Ghosts:
 --------------
 	* Learn game programming concepts and constructs using photonstorm's phaser library.
 	* Strengthen familiarity and comfort with JS
